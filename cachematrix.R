@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## In this file the <<- operator is used to store abjects and caches results of calculations made with these objects. 
+# Below are two functions that are used to create a special object that stores a numeric matrix and caches its inverse.
+
 
 
 ## The makeCacheMatrix function creates a special "matrix", which is really a list containing a function to
